@@ -1,5 +1,5 @@
 FROM python:3.8.2-alpine
-MAINTAINER Yaron
+#MAINTAINER Yaron
 
 ENV PYTHONUNBUFFERED 1
 
